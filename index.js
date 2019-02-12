@@ -22,6 +22,6 @@ function dec(n) {
   return (--n)
 }
 
-function maeInt(n) {
+function makeInt(n) {
   
 }
